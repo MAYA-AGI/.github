@@ -1,7 +1,4 @@
 <div align="center">
-
-<!-- <img src="https://github.com/user-attachments/assets/aa600152-da91-477d-914d-26d0b0849c91" width="100%" alt="MAYA Banner"/> -->
-
 #  M.A.Y.A-AGI
 
 ### *Meta-cognitive Autonomous Yet Aware Intelligence*
