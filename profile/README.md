@@ -61,7 +61,7 @@ MAYA is built to be more than an assistant. She is a companion that learns who y
 
 | Name | Role |
 |---|---|
-| 🧑‍💻 Vinit Karmkar | Founder, Developer & Everything in Between |
+| 🧑‍💻 K Vinit Karmkar | Founder, Developer & Everything in Between |
 
 ---
 
