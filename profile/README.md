@@ -57,13 +57,11 @@ MAYA is built to be more than an assistant. She is a companion that learns who y
 
 ## 👥 The Team
 
-> A passionate team from India building world-class AI.
+> One person. One vision. One AI.
 
-| Role | 
-|---|
-| 🧑‍💻 Founder & Lead Developer |
-| 🎨 UI/UX Designer |
-| 🤖 AI/ML Engineer |
+| Name | Role |
+|---|---|
+| 🧑‍💻 K Vinit Karmkar | Founder, Developer & Everything in Between |
 
 ---
 
