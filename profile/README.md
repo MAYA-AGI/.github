@@ -1,5 +1,6 @@
 <div align="center">
-#  M.A.Y.A-AGI
+
+  #  M.A.Y.A-AGI
 
 ### *Meta-cognitive Autonomous Yet Aware Intelligence*
 
