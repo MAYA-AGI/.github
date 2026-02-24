@@ -57,12 +57,11 @@ MAYA is built to be more than an assistant. She is a companion that learns who y
 
 ## 👥 The Team
 
-> *"Great things are often started by one person with a big vision."*
+> One person. One vision. One AI.
 
-| 🧑‍💻 Vinit Karmkar |
-|---|
-| Founder & Solo Developer |
-| Building MAYA from 🇮🇳 India |
+| Name | Role |
+|---|---|
+| 🧑‍💻 Vinit Karmkar | Founder, Developer & Everything in Between |
 
 ---
 
