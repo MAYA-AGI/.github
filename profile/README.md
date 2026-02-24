@@ -67,7 +67,7 @@ MAYA is built to be more than an assistant. She is a companion that learns who y
 
 [![GitHub](https://img.shields.io/badge/GitHub-MAYA--AGI-black?style=for-the-badge&logo=github)](https://github.com/MAYA-AGI)
 
-> 📩 For collaborations & inquiries: **k.vinitkarmkar@gmail.com**
+> 📩 For collaborations & inquiries: **mayaagi.dev@gmail.com**
 
 ---
 
